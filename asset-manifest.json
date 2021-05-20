@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/front-end-curve-clustering/static/css/main.b8b3311c.chunk.css",
+    "main.js": "/front-end-curve-clustering/static/js/main.f8f05d56.chunk.js",
+    "main.js.map": "/front-end-curve-clustering/static/js/main.f8f05d56.chunk.js.map",
+    "runtime-main.js": "/front-end-curve-clustering/static/js/runtime-main.9459bb40.js",
+    "runtime-main.js.map": "/front-end-curve-clustering/static/js/runtime-main.9459bb40.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/front-end-curve-clustering/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8db11634.chunk.js": "/front-end-curve-clustering/static/js/2.8db11634.chunk.js",
+    "static/js/2.8db11634.chunk.js.map": "/front-end-curve-clustering/static/js/2.8db11634.chunk.js.map",
+    "static/js/3.006b6b15.chunk.js": "/front-end-curve-clustering/static/js/3.006b6b15.chunk.js",
+    "static/js/3.006b6b15.chunk.js.map": "/front-end-curve-clustering/static/js/3.006b6b15.chunk.js.map",
+    "index.html": "/front-end-curve-clustering/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/front-end-curve-clustering/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b8b3311c.chunk.css.map": "/front-end-curve-clustering/static/css/main.b8b3311c.chunk.css.map",
+    "static/js/2.8db11634.chunk.js.LICENSE.txt": "/front-end-curve-clustering/static/js/2.8db11634.chunk.js.LICENSE.txt",
+    "static/media/esc.ece60bb7.png": "/front-end-curve-clustering/static/media/esc.ece60bb7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9459bb40.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8db11634.chunk.js",
+    "static/css/main.b8b3311c.chunk.css",
+    "static/js/main.f8f05d56.chunk.js"
+  ]
+}
