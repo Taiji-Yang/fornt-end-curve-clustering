@@ -14,6 +14,7 @@
     "react-scripts": "4.0.3",
     "react-swipeable-views": "^0.13.9",
     "recharts": "^2.0.9",
+    "three": "^0.128.0",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
@@ -31,7 +32,7 @@
     ]
   },
   "proxy": "https://curve-clustering.herokuapp.com/",
-  "homepage": "https://taiji-yang.github.io/fornt-end-curve-clustering/",
+  "homepage": "https://taiji-yang.github.io/front-end-curve-clustering/",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -43,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

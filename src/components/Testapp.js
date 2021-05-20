@@ -1,9 +1,8 @@
 import React from 'react'
 import { useRef, useCallback, useState, useEffect } from 'react'
-import * as THREE from '../../public/threejs/node_modules/three/build/three.module.js';
+import * as THREE from 'three';
 import MyVerticallyCenteredModal from './PopupWindow'
 import Dataplot from './Plot'
-import { OrbitControls } from '../../public/threejs/node_modules/three/examples/jsm/controls/OrbitControls.js';
 const Testapp = (props) => {
     const mainVisRef = useRef(null);
     let ifblock = true;
